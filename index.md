@@ -7,20 +7,24 @@ sidebarDepth: 2
 ![Secret Network](/header.png)
 
 <p align="center">
-Secret Network secures the decentralized web
+Secret Network secures the decentralized web.
 </p>
 
 ## What is Secret Network?
 
 Want to build a better internet? Solve for privacy.
 
-Secret Network is a blockchain-based protocol that lets anyone perform verifiable computations on encrypted data, offering transparent encryption services to application developers. Our mission: improve the adoption and usability of sustainable privacy solutions, for the benefit of all.
+The Secret Network is a decentralized network of computers (which we call "secret nodes") that use hardware-based and software-based privacy technologies to enable **secure computation**. On top of this network, developers can build **Secret Apps** - unstoppable, permissionless applications that can utilize encrypted data without ever exposing the data itself, even to the nodes in the network performing computations.
+
+Our mission: improve the adoption and usability of sustainable privacy solutions, for the benefit of all.
 
 <div class="homepage-links">
   <a href="/network">Node Operators</a>
   <a href="/protocol">App Developers</a>
   <a href="/questions">Common Questions</a>
 </div>
+
+Looking for our full developer documentation? Visit [build.scrt.network](https://build.scrt.network)
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
@@ -56,6 +60,6 @@ This resource is managed by the Secret Foundation, a non-profit dedicated to the
 
 <div class="homepage-links">
   <a href="/foundation">About Foundation</a>
-  <a href="https://docs.scrt.network">Full Documentation</a>
-  <a href="https://github.com/SecretFoundation/SecretWiki">Wiki Contributions</a>
+  <a href="https://docs.scrt.network">Dev Documentation</a>
+  <a href="https://github.com/SecretFoundation/SecretWiki">Contribute To This Page</a>
 </div>
