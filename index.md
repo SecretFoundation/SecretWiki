@@ -59,7 +59,7 @@ Secret Network is secured by the SCRT coin (Secret), which is used for fees, sta
 This resource is managed by the Secret Foundation, a non-profit dedicated to the Secret Network community. We're happy to review any contributions! Our Mission: To advance privacy as a human right and public good; to empower individuals through development and use of decentralized technologies; to protect freedom and create more valuable systems by eliminating data monopolies; and to build a sustainable network, foundation, and community that will work to instill these core values around the world.
 
 <div class="homepage-links">
-  <a href="/foundation">About Foundation</a>
-  <a href="https://docs.scrt.network">Dev Documentation</a>
+  <a href="/foundation">About the Foundation</a>
+  <a href="https://docs.scrt.network">Developer Documentation</a>
   <a href="https://github.com/SecretFoundation/SecretWiki">Contribute To This Page</a>
 </div>
