@@ -11,7 +11,7 @@ We want to enjoy the benefits of [smart contracts](https://en.wikipedia.org/wiki
 ### What are secret contracts and Secret Apps?
 "Secret contracts" are _privacy-preserving_ smart contracts built on Secret Network. Smart contracts (in this context) are essentially self-executing pieces of code that are managed on a blockchain. Secret contracts improve on regular smart contracts in that they not only solve for _correctness_, but also for _data privacy_. Secret contracts are written in the [Rust programming language](https://www.rust-lang.org/). Secret Apps utilize the capabilities of secret contracts to enable unique use cases that empower users and increase opportunities for growth and impact.
 
-*Learn more on the [About the Protocol](/protocol.html) page or visit our [full documentation](https://build.scrt.network/).*
+>Learn more on the [About the Protocol](/protocol.html) page or visit our [full documentation](https://build.scrt.network/).
 
 ### Why privacy?
 Members of our community, including secret node operators and Secret App developers, believe that **privacy is a fundamental human right and a public good.** Privacy needs to be protected and supported by the technologies we use in daily life. However,  an overly centralized internet and large data monopolies have put our privacy, our security, and our society at risk. That's why we are dedicated to building solutions with privacy at their core, empowering users to take and keep control of their valuable information. Privacy makes the applications we rely on more usable and more secure - and when privacy is not protected, neither are we.
@@ -32,7 +32,7 @@ SCRT (pronounced "Secret") is the native coin of the Secret Network. This means 
 
 Another utility for SCRT is governance of the network. Secret nodes can create and vote on governance proposals using SCRT, allowing for decentralized control of the network.
 
-*Learn more on the [About the Network](/network.html) page or visit our [full documentation](https://build.scrt.network/validators-and-full-nodes/secret-nodes.html).*
+>Learn more on the [About the Network](/network.html) page or visit our [full documentation](https://build.scrt.network/validators-and-full-nodes/secret-nodes.html).
 
 ### What are Trusted Execution Environments, and why do we use them?
 [Trusted Execution Environments](https://en.wikipedia.org/wiki/Trusted_execution_environment) (TEEs) are special enclaves inside a computer that function like a "black box", allowing computations to occur _confidentially_ inside of them. They are utilized in a broad range of everyday hardware, including the fingerprint readers in smartphones. Secret nodes in the network use these secure enclaves to protect the data used by secret contracts.
