@@ -60,6 +60,6 @@ This resource is managed by the Secret Foundation, a non-profit dedicated to the
 
 <div class="homepage-links">
   <a href="/foundation">About the Foundation</a>
-  <a href="https://docs.scrt.network">Developer Documentation</a>
+  <a href="https://build.scrt.network">Documentation</a>
   <a href="https://github.com/SecretFoundation/SecretWiki">Contribute To This Page</a>
 </div>

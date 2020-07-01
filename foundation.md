@@ -1,4 +1,8 @@
-# Secret Foundation
+---
+title: Foundation
+---
+
+# About Secret Foundation
 
 The Secret Foundation is a key organization in the Secret Network ecosystem. It is a non-profit dedicated to building, researching, and scaling adoption of decentralized technologies for the public good, with privacy at their core. Its guiding values are **Usability, Sustainability, Impact, and Empowerment.**
 
