@@ -15,6 +15,7 @@ module.exports = {
             { title: 'Introduction', path: '/questions' },
             { title: 'Network', path: '/network' },
             { title: 'Protocol', path: '/protocol' },
+            { title: 'Tutorials', path: '/tutorials' },
             { title: 'Foundation', path: '/foundation' },
         ]
     }
