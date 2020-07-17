@@ -2,7 +2,7 @@
 title: Tutorials
 ---
 
-# Staking with the secretcli
+# Delegating with the secretcli
 
 To stake with a node through the CLI, all you must do is delegate to the Secret Validator Address of the node you wish to stake with. You can find the address of validators by running the following command. Please remember through the duration of this guide that the secretcli counts SCRT in USCRT. 1 SCRT = 1,000,000 USCRT.
 
