@@ -1,3 +1,7 @@
+---
+title: Secret Committees
+---
+
 # Secret Foundation Committees
 
 We are collectively exploring ways for Secret Network participants to earn from value shared. This document is a work in progress toward defining the purpose, goals, responsibilities, and initiatives of each and every committee.
