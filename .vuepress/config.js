@@ -22,6 +22,13 @@ module.exports = {
                     { title: 'Protocol', path: '/protocol' }
                  ]
             },
+            {  
+                title: 'Ecosystem',
+                children : [
+                    { title: 'Projects', path: '/projects' },
+                    { title: 'Apps', path: '/apps'}
+                 ]
+            },
             { 
                 title: 'Foundation',
                 children : [
@@ -29,13 +36,6 @@ module.exports = {
                     { title: 'Committees', path: '/committees' }
                  ]
                 
-            },
-            {  
-                title: 'Ecosystem',
-                children : [
-                    { title: 'Projects', path: '/projects' },
-                    { title: 'Apps', path: '/apps'}
-                 ]
             }
         ]
     }

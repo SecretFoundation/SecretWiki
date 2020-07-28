@@ -27,3 +27,7 @@ The foundation is currently working on a committee structure, allowing community
 - Research
 - Secret Apps
 - Network Infrastructure
+
+### Meetings
+
+View our [public event calendar](https://calendar.google.com/calendar?cid=ZW5pZ21hLmNvXzgwNXVja2VmcTBpcGZidmMxdmpmaHM2NGZnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20), which includes our weekly committee discussions and other collaborative opportunities.

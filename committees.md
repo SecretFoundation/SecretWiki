@@ -7,6 +7,11 @@ title: Secret Committees
 We are collectively exploring ways for Secret Network participants to earn from value shared. This document is a work in progress toward defining the purpose, goals, responsibilities, and initiatives of each and every committee.
 
 ## Governance Committee
+
+#### Meetings every Wednesday at 3pm UTC
+
+Join here: https://meet.scrt.network/gov
+
 ### Purpose:
 * facilitating coordination of Secret Network participants
 ### Goals: 
@@ -16,9 +21,14 @@ We are collectively exploring ways for Secret Network participants to earn from 
 ### Responsibilities:
 * making decisions cooperatively
 ### Initiatives:
-* weekly meetings to discuss project updates and governance issues
+* discussing project updates and governance issues
 
 ## Education Committee
+
+#### Meetings every Thursday at 4pm UTC
+
+Join here: https://meet.scrt.network/edu
+
 ### Purpose:
 * helping anyone understand the importance of programmable privacy
 ### Goals:
@@ -31,6 +41,11 @@ We are collectively exploring ways for Secret Network participants to earn from 
 * Secret Foundation Wiki
 
 ## Dev Committee
+
+#### Meetings every Wednesday at 5pm UTC
+
+Join here: https://meet.scrt.network/dev
+
 ### Purpose:
 * engineering a secret source of truth
 ### Goals:
