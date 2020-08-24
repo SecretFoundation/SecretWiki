@@ -42,6 +42,17 @@ Another utility for SCRT is governance of the network. Secret nodes can create a
 
 While our community is constantly exploring other innovative privacy solutions (such as multi-party computing, homomorphic encryption, private set intersection, etc.), they are simply not practical to use in production for applications today. There are always tradeoffs between scalability, performance, and security, and today secure enclaves provide the best option for protecting data privacy in a decentralized network. We continue to explore and research other solutions!
 
+### What is the relationship between Enigma and Secret Network?
+[Enigma MPC](https://www.enigma.co) is a development company that is one of the core contributors to [Secret Network](https://scrt.network). Their work is critical to the Secret ecosystem as they contribute to both protocol-level functionality (such as [secret contracts](https://blog.scrt.network/secret-contracts-update-milestone-3-of-3-is-complete/)) and key applications for the network. There are currently dozens of companies and individual contributors currently supporting Secret Network and its ecosystem, whether it is through development work, node operation, education, or many other means!
+
+### What is the relationship between ENG and Secret Network?
+Enigma is also the name of an ERC20 token (known as ENG) that was issued in 2017. At this moment, there are no entities developing technologies or networks based on the utilization of ENG. There is an ongoing community-organized swap between ENG and SCRT (the native coin of Secret Network) that is expected to last until the end of 2021. The swap is 1:1 between ENG and SCRT. More information can be found on these other sites:
+
+[Secretnodes.org History of the ENG/SCRT Swap](https://secretnodes.org/#/ss)
+[Secretswap.io - Swap Homepage](https://secretswap.io)
+[Binance Will Support the Enigma (ENG) Mainnet Swap](https://www.binance.com/en/support/articles/08082b3cbb874a23bd0b21aedae24852)
+[Coindesk Coverage of the Community Swap](https://www.coindesk.com/community-behind-privacy-focused-smart-contract-forges-ahead-after-settlement)
+
 ### What is Cosmos, and why are you using their technologies?
 [Cosmos](https://cosmos.network/) represents a standard approach to developing scalable and interoperable blockchain applications. We believe the Cosmos SDK, Tendermint and Inter-Blockchain Communication Protocol (IBC) are groundbreaking since they are looking ahead to a future of many interconnected, app-specific blockchains. We're excited to see how Secret Network can bring more privacy solutions to the Cosmos ecosystem. [Learn more about this on our blog.](https://blog.scrt.network/secret-hub/)
 
