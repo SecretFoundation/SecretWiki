@@ -46,7 +46,7 @@ While our community is constantly exploring other innovative privacy solutions (
 [Enigma MPC](https://www.enigma.co) is a development company that is one of the core contributors to [Secret Network](https://scrt.network). Their work is critical to the Secret ecosystem as they contribute to both protocol-level functionality (such as [secret contracts](https://blog.scrt.network/secret-contracts-update-milestone-3-of-3-is-complete/)) and key applications for the network. There are currently dozens of companies and individual contributors currently supporting Secret Network and its ecosystem, whether it is through development work, node operation, education, or many other means!
 
 ### What is the relationship between ENG and Secret Network?
-Enigma is also the name of an ERC20 token (known as ENG) that was issued in 2017. At this moment, there are no entities developing technologies or networks based on the utilization of ENG. There is an ongoing community-organized swap between ENG and SCRT (the native coin of Secret Network) that is expected to last until the end of 2021. The swap is 1:1 between ENG and SCRT. More information can be found on these other sites:
+Enigma is also the name of an ERC20 token (known as ENG) that was issued in 2017. At this moment, there are no entities developing technologies or networks based on the utilization of ENG. There is an ongoing community-organized swap between ENG and SCRT (the native coin of Secret Network) that is expected to last until at least the end of 2020. The swap is 1:1 between ENG and SCRT. More information can be found on these other sites:
 
 [Secretnodes.org History of the ENG/SCRT Swap](https://secretnodes.org/#/ss)
 
