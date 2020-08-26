@@ -25,14 +25,15 @@ module.exports = {
             {  
                 title: 'Ecosystem',
                 children : [
-                    { title: 'Projects', path: '/projects' },
-                    { title: 'Apps', path: '/apps'}
+                    { title: 'Validators', path: '/validators' },
+                    { title: 'Secret Apps', path: '/apps'},
+                    { title: 'Community', path: '/projects'}
                  ]
             },
             { 
                 title: 'Foundation',
                 children : [
-                    { title: 'Overview', path: '/foundation' },
+                    { title: 'About', path: '/foundation' },
                     { title: 'Committees', path: '/committees' }
                  ]
                 
