@@ -18,7 +18,7 @@ or just edit any of the files :)
 
 ## Secret Foundation
 
-> The Secret Foundation helps the community organize committees to facilitate important discussions and effectively allocate resources.
+> The Secret Foundation helps the community organize committees to facilitate important discussions and provide necessary resources.
 
 - [Purpose](#purpose)
 - [Activities](#activities)
