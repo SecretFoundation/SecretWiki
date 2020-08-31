@@ -34,10 +34,15 @@ module.exports = {
                 title: 'Foundation',
                 children : [
                     { title: 'About', path: '/foundation' },
-                    { title: 'Committees', path: '/committees' }
-                 ]
-                
-            }
+                 ] 
+            },
+            { 
+                title: 'Committees',
+                children : [
+                    { title: 'Committees', path: '/committees' },
+                    { title: 'Infrastructure', path: '/infrastructure' }
+                 ] 
+            }            
         ]
     }
 }
