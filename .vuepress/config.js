@@ -27,22 +27,17 @@ module.exports = {
                 children : [
                     { title: 'Validators', path: '/validators' },
                     { title: 'Secret Apps', path: '/apps'},
-                    { title: 'Community', path: '/projects'}
+                    { title: 'Community', path: '/projects'},
+                    { title: 'Community', path: '/sgx'}
                  ]
             },
             { 
                 title: 'Foundation',
                 children : [
                     { title: 'About', path: '/foundation' },
+                    { title: 'Committees', path: '/committees' }
                  ] 
-            },
-            { 
-                title: 'Committees',
-                children : [
-                    { title: 'Committees', path: '/committees' },
-                    { title: 'Infrastructure', path: '/infrastructure' }
-                 ] 
-            }            
+            }         
         ]
     }
 }
