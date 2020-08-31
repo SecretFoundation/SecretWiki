@@ -38,7 +38,7 @@ module.exports = {
                     path: '/projects'
                 },
                 { 
-                    title: 'SGX Supported Hardware', 
+                    title: 'SGX Compliance', 
                     path: '/sgx'
                 }
                  ]
