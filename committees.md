@@ -6,6 +6,37 @@ title: Secret Committees
 
 We are collectively exploring ways for Secret Network participants **(Secret Agents)** to better coordinate and collaborate. This document is a work in progress toward defining the purpose, goals, responsibilities, and initiatives of each and every committee.
 
+## Devs Committee
+
+#### Meetings every Monday at 3pm UTC
+
+Join here: https://meet.scrt.network/dev
+
+### Purpose:
+* engineering a secret source of truth
+### Goals:
+* onboarding valuable contributors
+* building useful secret apps together
+### Responsibilities:
+* improving documentation for developers
+### Initiatives:
+* hackathons
+
+## Infrastructure Committee
+
+#### Meetings every Tuesday at 4pm UTC
+
+Join here: https://meet.scrt.network/infrastructure
+
+### Purpose:
+* coordinate research into OEMs and cloud service providers that support SGX
+### Goals:
+* staying up-to-date on hardware issues
+### Responsibilities:
+* improving documentation for validators
+### Initiatives:
+* gathering a list of compatible hardware solutions
+
 ## Governance Committee
 
 #### Meetings every Wednesday at 3pm UTC
@@ -39,22 +70,6 @@ Join here: https://meet.scrt.network/edu
 * creating effective content efficiently
 ### Initiatives:
 * Secret Foundation Wiki
-
-## Dev Committee
-
-#### Meetings every Wednesday at 5pm UTC
-
-Join here: https://meet.scrt.network/dev
-
-### Purpose:
-* engineering a secret source of truth
-### Goals:
-* onboarding valuable contributors
-* building useful secret apps together
-### Responsibilities:
-* improving documentation
-### Initiatives:
-* hackathons
 
 ## Awareness Committee
 
