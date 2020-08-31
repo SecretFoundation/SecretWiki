@@ -1,5 +1,0 @@
----
-title: Infrastructure Committee
----
-
-# PLACEHOLDER
