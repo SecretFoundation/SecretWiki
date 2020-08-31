@@ -20,7 +20,6 @@ Note: Not all offerings from these providers will work with SGX. Be sure to pay 
 1. Microsoft Azure Confidential Computing
 2. Alibaba Cloud (Note: Requires passport information from participants.)
 3. [Psychz](https://www.psychz.net/dashboard/client/web/order/dedicated-server?processor=&processorBaseFreq=&numberOfCpu=7391&cpuCores=&location=)
-4. [Phoenixnap](https://phoenixnap.com/servers/intel-Xeon-e-processor)
 
 # Non-working Hardware
 
