@@ -25,10 +25,22 @@ module.exports = {
             {  
                 title: 'Ecosystem',
                 children : [
-                    { title: 'Validators', path: '/validators' },
-                    { title: 'Secret Apps', path: '/apps'},
-                    { title: 'Community', path: '/projects'},
-                    { title: 'SGX', path: '/sgx'}
+                { 
+                    title: 'Validators', 
+                    //path: '/validators' 
+                },
+                { 
+                    title: 'Secret Apps', 
+                    path: '/apps'
+                },
+                { 
+                    title: 'Community Projects', 
+                    path: '/projects'
+                },
+                { 
+                    title: 'SGX Supported Hardware', 
+                    path: '/sgx'
+                }
                  ]
             },
             { 
