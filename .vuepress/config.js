@@ -28,7 +28,7 @@ module.exports = {
                     { title: 'Validators', path: '/validators' },
                     { title: 'Secret Apps', path: '/apps'},
                     { title: 'Community', path: '/projects'},
-                    { title: 'Community', path: '/sgx'}
+                    { title: 'SGX', path: '/sgx'}
                  ]
             },
             { 
