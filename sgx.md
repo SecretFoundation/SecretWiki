@@ -13,6 +13,9 @@ You must use a Xeon Processor that supports SGX via SPS. Here is a list of worki
 1. E-2276G
 2. E-2278G
 3. E-2288G
+4. E-2176G
+5. E-2178G
+6. E-2188G
 
 
 # Motherboard Support
