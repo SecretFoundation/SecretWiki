@@ -6,6 +6,15 @@ title: SGX Support
 
 The Secret Network has the requirement of running a compliant SGX enclave in order to successfully deploy a full node or a Secret Node. This page will go over the supported hardware and cloud providers. If you'd like to contribute more options please make a pull request or join us in the [the infrastructure room](https://chat.scrt.network/channel/infrastructure).
 
+# CPU Support
+
+You must use a Xeon Processor that supports SGX via SPS. Here is a list of working processors. Substitute at your own risk.
+
+1. E-2276G
+2. E-2278G
+3. E-2288G
+
+
 # Motherboard Support
 
 SuperMicro motherboards.
