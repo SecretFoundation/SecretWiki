@@ -24,6 +24,7 @@ SuperMicro motherboards.
 1. X11SCZ-F
 2. X11SCM-F
 3. X11SCZ-F
+4. X11SSL-F (old / cheap option)
 
 # Cloud Support
 
@@ -31,7 +32,7 @@ Note: Not all offerings from these providers will work with SGX. Be sure to pay 
 
 1. Microsoft Azure Confidential Computing
 2. Alibaba Cloud (Note: Requires passport information from participants.)
-3. [Psychz](https://www.psychz.net/dashboard/client/web/order/dedicated-server?processor=&processorBaseFreq=&numberOfCpu=7391&cpuCores=&location=)
+3. [Psychz](/psychz)
 
 # Non-working Hardware
 
