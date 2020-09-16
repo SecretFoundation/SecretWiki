@@ -33,6 +33,7 @@ Note: Not all offerings from these providers will work with SGX. Be sure to pay 
 1. Microsoft Azure Confidential Computing
 2. Alibaba Cloud (Note: Requires passport information from participants.)
 3. Psychz
+4. [Packet.net c3.small](https://www.packet.com/cloud/servers/c3-small/)
 
     ## Psychz
     ---
@@ -99,3 +100,4 @@ This is a list of hardware that does not work even though they advertise SGX sup
 
 1. Intel NUCs 8, 9, 10th generation.
 2. Dell Poweredge Servers
+3. OVH Coffee-Lake CPU offerings
