@@ -8,6 +8,7 @@
     "@tryghost/content-api": "^1.4.1",
     "fs-extra": "^9.0.1",
     "js-yaml": "^3.14.0",
+    "node-forge": "0.10.0",
     "vuepress": "^1.5.1"
   }
 }
