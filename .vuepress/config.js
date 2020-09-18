@@ -39,7 +39,13 @@ module.exports = {
                 },
                 { 
                     title: 'SGX Compliance', 
-                    path: '/sgx'
+                    path: '/sgx',
+                    children: [
+                        {
+                            title: 'Psychz',
+                            path: '/psychz'
+                        },
+                    ]
                 }
                  ]
             },
