@@ -1,4 +1,4 @@
-### ⚠️⚠️ The location of AWSM-Secret has changed! ⚠️⚠️
+### ⚠️⚠️ The location of the secret network Documentation has changed! ⚠️⚠️
 
 <b> Find the developer documentation here: </b>
 
