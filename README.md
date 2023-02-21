@@ -1,3 +1,5 @@
-???? <b> The location of the secret network Documentation has changed! </b> ????
+### ⚠️⚠️ The location of AWSM-Secret has changed! ⚠️⚠️
 
-### Find the developer documentation here: [Official Documentation](https://docs.scrt.network)
+<b> Find the developer documentation here: </b>
+
+[Official Documentation](https://docs.scrt.network)
